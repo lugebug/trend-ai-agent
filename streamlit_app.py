@@ -15,7 +15,7 @@ except FileNotFoundError:
 
 # 展示每个趋势
 for trend in trends:
-    st.subheader(f"📰 {trend['source_text']}")
+    st.subheader(f"📰 {trend.get('translated_text', trend['source_text'])}")
     st.write(f"📅 日期: {trend['date']}")
     st.write(f"🔥 趋势评分: {trend['trend_score']}")
     if trend["keywords"]:
