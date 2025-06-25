@@ -1,1 +1,43 @@
+name: Daily Trend AI Update
 
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 00:00 UTC 自动运行
+  workflow_dispatch:     # 允许手动触发
+
+jobs:
+  update-trends:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Step 1 - Fetch news
+        run: python trend_fetch_newsapi.py
+
+      - name: Step 2 - Analyze trends
+        run: python trend_analyzer.py
+
+      - name: Step 3 - Detect breakpoints
+        run: python trend_breakpoint_detector.py
+
+      - name: Step 4 - Recommend investments
+        run: python trend_investment_recommender.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add .
+          git commit -m '📰 Daily trend data updated'
+          git push
