@@ -14,7 +14,7 @@
         ]
       }
     ],
-    "trend_score": 76
+    "trend_score": 94
   },
   {
     "date": "2025-06-25",
@@ -31,7 +31,7 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 97
   },
   {
     "date": "2025-06-25",
@@ -48,7 +48,7 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 70
   },
   {
     "date": "2025-06-25",
@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 70
   },
   {
     "date": "2025-06-25",
@@ -82,7 +82,7 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 73
   },
   {
     "date": "2025-06-25",
@@ -99,7 +99,7 @@
         ]
       }
     ],
-    "trend_score": 82
+    "trend_score": 73
   },
   {
     "date": "2025-06-25",
@@ -116,7 +116,7 @@
         ]
       }
     ],
-    "trend_score": 82
+    "trend_score": 76
   },
   {
     "date": "2025-06-25",
@@ -133,7 +133,7 @@
         ]
       }
     ],
-    "trend_score": 82
+    "trend_score": 79
   },
   {
     "date": "2025-06-25",
@@ -150,7 +150,24 @@
         ]
       }
     ],
-    "trend_score": 85
+    "trend_score": 82
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Angel Yeast Marks Sustainable Gastronomy Day with Outstanding Results in Weight Management Year",
+    "translated_text": "天使酵母标志着可持续的美食日，体重管理年度的出色结果",
+    "keywords": [
+      {
+        "core_keyword": "Aging Population",
+        "related": [
+          "老龄化",
+          "医疗",
+          "护理",
+          "养老金"
+        ]
+      }
+    ],
+    "trend_score": 88
   },
   {
     "date": "2025-06-25",
@@ -167,7 +184,7 @@
         ]
       }
     ],
-    "trend_score": 88
+    "trend_score": 91
   },
   {
     "date": "2025-06-25",
@@ -184,24 +201,7 @@
         ]
       }
     ],
-    "trend_score": 88
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "Type 1 diabetes mellitus patients had lower total vitamin K levels and increased sensitivity to direct anticoagulants",
-    "translated_text": "1型糖尿病患者的总维生素K水平较低，对直接抗凝剂的敏感性提高",
-    "keywords": [
-      {
-        "core_keyword": "Aging Population",
-        "related": [
-          "老龄化",
-          "医疗",
-          "护理",
-          "养老金"
-        ]
-      }
-    ],
-    "trend_score": 91
+    "trend_score": 94
   },
   {
     "date": "2025-06-25",
@@ -218,7 +218,7 @@
         ]
       }
     ],
-    "trend_score": 91
+    "trend_score": 94
   },
   {
     "date": "2025-06-25",
@@ -235,7 +235,7 @@
         ]
       }
     ],
-    "trend_score": 91
+    "trend_score": 97
   },
   {
     "date": "2025-06-25",
@@ -252,6 +252,6 @@
         ]
       }
     ],
-    "trend_score": 91
+    "trend_score": 70
   }
 ]
