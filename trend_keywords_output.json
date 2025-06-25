@@ -1,0 +1,109 @@
+[
+  {
+    "date": "2025-06-25",
+    "source_text": "OpenAI发布GPT-5原型，AIGC加速商业化",
+    "keywords": [
+      {
+        "core_keyword": "GPT-5",
+        "related": [
+          "OpenAI",
+          "AIGC",
+          "生成式AI",
+          "模型迭代"
+        ]
+      }
+    ],
+    "trend_score": 88
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "台积电宣布在亚利桑那建设第二座晶圆厂",
+    "keywords": [
+      {
+        "core_keyword": "晶圆厂",
+        "related": [
+          "台积电",
+          "产能",
+          "先进制程"
+        ]
+      }
+    ],
+    "trend_score": 70
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "联合国警告全球人口老龄化进入拐点",
+    "keywords": [
+      {
+        "core_keyword": "老龄化",
+        "related": [
+          "医疗",
+          "护理",
+          "养老金",
+          "少子化"
+        ]
+      }
+    ],
+    "trend_score": 89
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "比特币突破72000美元，数字资产再度引发关注",
+    "keywords": [
+      {
+        "core_keyword": "比特币",
+        "related": [
+          "数字资产",
+          "区块链",
+          "稳定币"
+        ]
+      }
+    ],
+    "trend_score": 81
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "欧盟推行碳边境税政策，绿色供应链重构在即",
+    "keywords": [
+      {
+        "core_keyword": "碳边境税",
+        "related": [
+          "ESG",
+          "绿色供应链",
+          "脱碳"
+        ]
+      }
+    ],
+    "trend_score": 97
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "生成式AI模型在医疗影像识别中取得突破",
+    "keywords": [
+      {
+        "core_keyword": "医疗影像",
+        "related": [
+          "AI+医疗",
+          "诊断系统",
+          "生物科技"
+        ]
+      }
+    ],
+    "trend_score": 96
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "全球半导体产能重心向美国和印度转移",
+    "keywords": [
+      {
+        "core_keyword": "半导体",
+        "related": [
+          "芯片",
+          "产地转移",
+          "供应链重组"
+        ]
+      }
+    ],
+    "trend_score": 74
+  }
+]
