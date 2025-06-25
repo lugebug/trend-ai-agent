@@ -1,0 +1,6 @@
+requests
+googletrans==4.0.0rc1
+newsapi-python
+scikit-learn
+pandas
+streamlit
