@@ -18,7 +18,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests googletrans==4.0.0-rc1
 
       - name: Run fetch script
         run: python trend_fetch_newsapi.py
