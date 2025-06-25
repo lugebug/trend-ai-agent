@@ -2,6 +2,7 @@
 import requests
 import datetime
 import json
+from googletrans import Translator
 
 API_KEY = "62fe55a584804d249a1f6af499f71750"
 TREND_TOPICS = [
@@ -48,13 +49,23 @@ def extract_keywords(topic):
 def score_trend():
     return int(70 + 30 * (datetime.datetime.now().second % 10) / 10)
 
+def translate_text(text, translator):
+    try:
+        result = translator.translate(text, src='en', dest='zh-cn')
+        return result.text
+    except Exception:
+        return "[翻译失败]"
+
 def build_trend_json(news_items):
+    translator = Translator()
     structured = []
     today = datetime.date.today().isoformat()
     for item in news_items:
+        translated = translate_text(item["title"], translator)
         structured.append({
             "date": today,
             "source_text": item["title"],
+            "translated_text": translated,
             "keywords": extract_keywords(item["topic"]),
             "trend_score": score_trend()
         })
