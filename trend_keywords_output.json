@@ -1,8 +1,8 @@
 [
   {
     "date": "2025-06-25",
-    "source_text": "The 3️⃣ standout performers on a night of wonder goals in Group A",
-    "translated_text": "A组的一个夜晚的3️⃣杰出的表演者",
+    "source_text": " Suárez shines, but Palmeiras snatch late draw and go through top",
+    "translated_text": "苏阿雷斯（Suárez",
     "keywords": [
       {
         "core_keyword": "Artificial Intelligence",
@@ -14,12 +14,12 @@
         ]
       }
     ],
-    "trend_score": 88
+    "trend_score": 76
   },
   {
     "date": "2025-06-25",
-    "source_text": "Your CT scan could reveal a hidden heart risk—and AI just learned how to find it",
-    "translated_text": "您的CT扫描可能会揭示隐藏的心脏风险 -  AI刚刚学会了如何找到它",
+    "source_text": "JPMorgan sees Asian tech stocks gaining another 15-20% this year",
+    "translated_text": "摩根大通（JPMorgan）看到亚洲科技股今年再获得15-20％",
     "keywords": [
       {
         "core_keyword": "Artificial Intelligence",
@@ -31,12 +31,12 @@
         ]
       }
     ],
-    "trend_score": 88
+    "trend_score": 79
   },
   {
     "date": "2025-06-25",
-    "source_text": "From AI threats to bad bosses: why emotional intelligence matters",
-    "translated_text": "从AI威胁到坏老板：为什么情绪智力很重要",
+    "source_text": "Thank you, Fifa! Pact returns, Botafogo v Palmeiras, magical night",
+    "translated_text": "谢谢你，国际足联！协定返回，botafogo v palmeiras，神奇的夜晚",
     "keywords": [
       {
         "core_keyword": "Artificial Intelligence",
@@ -48,7 +48,24 @@
         ]
       }
     ],
-    "trend_score": 91
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "JPMorgan sees Asian tech stocks gaining another 15-20% this year",
+    "translated_text": "摩根大通（JPMorgan）看到亚洲科技股今年再获得15-20％",
+    "keywords": [
+      {
+        "core_keyword": "Semiconductor",
+        "related": [
+          "芯片",
+          "晶圆",
+          "封装",
+          "产能"
+        ]
+      }
+    ],
+    "trend_score": 79
   },
   {
     "date": "2025-06-25",
@@ -65,7 +82,7 @@
         ]
       }
     ],
-    "trend_score": 94
+    "trend_score": 79
   },
   {
     "date": "2025-06-25",
@@ -82,24 +99,7 @@
         ]
       }
     ],
-    "trend_score": 94
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "Kospi Surges to Lead Stock Gains in Asia After Mideast Ceasefire",
-    "translated_text": "中东停火后的Kospi飙升以领先亚洲的股票收益",
-    "keywords": [
-      {
-        "core_keyword": "Semiconductor",
-        "related": [
-          "芯片",
-          "晶圆",
-          "封装",
-          "产能"
-        ]
-      }
-    ],
-    "trend_score": 97
+    "trend_score": 82
   },
   {
     "date": "2025-06-25",
@@ -116,7 +116,7 @@
         ]
       }
     ],
-    "trend_score": 97
+    "trend_score": 82
   },
   {
     "date": "2025-06-25",
@@ -133,7 +133,7 @@
         ]
       }
     ],
-    "trend_score": 70
+    "trend_score": 82
   },
   {
     "date": "2025-06-25",
@@ -150,7 +150,7 @@
         ]
       }
     ],
-    "trend_score": 73
+    "trend_score": 85
   },
   {
     "date": "2025-06-25",
@@ -167,7 +167,7 @@
         ]
       }
     ],
-    "trend_score": 73
+    "trend_score": 88
   },
   {
     "date": "2025-06-25",
@@ -184,7 +184,7 @@
         ]
       }
     ],
-    "trend_score": 73
+    "trend_score": 88
   },
   {
     "date": "2025-06-25",
@@ -201,7 +201,7 @@
         ]
       }
     ],
-    "trend_score": 76
+    "trend_score": 91
   },
   {
     "date": "2025-06-25",
@@ -218,7 +218,7 @@
         ]
       }
     ],
-    "trend_score": 76
+    "trend_score": 91
   },
   {
     "date": "2025-06-25",
@@ -235,7 +235,7 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 91
   },
   {
     "date": "2025-06-25",
@@ -252,6 +252,6 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 91
   }
 ]
