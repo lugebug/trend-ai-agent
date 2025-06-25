@@ -1,109 +1,242 @@
 [
   {
     "date": "2025-06-25",
-    "source_text": "OpenAI发布GPT-5原型，AIGC加速商业化",
+    "source_text": "Hyatt Cuts 30% of its U.S. Customer Service Staff",
     "keywords": [
       {
-        "core_keyword": "GPT-5",
+        "core_keyword": "Artificial Intelligence",
         "related": [
-          "OpenAI",
+          "AI",
           "AIGC",
-          "生成式AI",
-          "模型迭代"
+          "GPT",
+          "自动化"
         ]
       }
     ],
-    "trend_score": 88
+    "trend_score": 79
   },
   {
     "date": "2025-06-25",
-    "source_text": "台积电宣布在亚利桑那建设第二座晶圆厂",
+    "source_text": "Amazon to invest £40 billion in UK over 3 years: govt",
     "keywords": [
       {
-        "core_keyword": "晶圆厂",
+        "core_keyword": "Artificial Intelligence",
         "related": [
-          "台积电",
-          "产能",
-          "先进制程"
+          "AI",
+          "AIGC",
+          "GPT",
+          "自动化"
         ]
       }
     ],
-    "trend_score": 70
+    "trend_score": 79
   },
   {
     "date": "2025-06-25",
-    "source_text": "联合国警告全球人口老龄化进入拐点",
+    "source_text": "OpenAI scrubs mention of Jony Ive partnership after judge's ruling over trademark dispute",
     "keywords": [
       {
-        "core_keyword": "老龄化",
+        "core_keyword": "Artificial Intelligence",
         "related": [
-          "医疗",
-          "护理",
-          "养老金",
-          "少子化"
+          "AI",
+          "AIGC",
+          "GPT",
+          "自动化"
         ]
       }
     ],
-    "trend_score": 89
+    "trend_score": 79
   },
   {
     "date": "2025-06-25",
-    "source_text": "比特币突破72000美元，数字资产再度引发关注",
+    "source_text": "Cathie Wood's Ark Invest Cashes Out $109 Million Out Of Circle Internet Stock As Shares Spike, Pivots Into Robinhood And These Chip Stocks",
     "keywords": [
       {
-        "core_keyword": "比特币",
-        "related": [
-          "数字资产",
-          "区块链",
-          "稳定币"
-        ]
-      }
-    ],
-    "trend_score": 81
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "欧盟推行碳边境税政策，绿色供应链重构在即",
-    "keywords": [
-      {
-        "core_keyword": "碳边境税",
-        "related": [
-          "ESG",
-          "绿色供应链",
-          "脱碳"
-        ]
-      }
-    ],
-    "trend_score": 97
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "生成式AI模型在医疗影像识别中取得突破",
-    "keywords": [
-      {
-        "core_keyword": "医疗影像",
-        "related": [
-          "AI+医疗",
-          "诊断系统",
-          "生物科技"
-        ]
-      }
-    ],
-    "trend_score": 96
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "全球半导体产能重心向美国和印度转移",
-    "keywords": [
-      {
-        "core_keyword": "半导体",
+        "core_keyword": "Semiconductor",
         "related": [
           "芯片",
-          "产地转移",
-          "供应链重组"
+          "晶圆",
+          "封装",
+          "产能"
         ]
       }
     ],
-    "trend_score": 74
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Huahong zeros in on metrology gear to shore up chip supply chain",
+    "keywords": [
+      {
+        "core_keyword": "Semiconductor",
+        "related": [
+          "芯片",
+          "晶圆",
+          "封装",
+          "产能"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Toshiba Starts Sample Shipments of Second Product in its Smart Motor Control Driver “SmartMCD™” Series",
+    "keywords": [
+      {
+        "core_keyword": "Semiconductor",
+        "related": [
+          "芯片",
+          "晶圆",
+          "封装",
+          "产能"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "State eyeing nuclear plant for upstate; Borrello wants it in Dunkirk",
+    "keywords": [
+      {
+        "core_keyword": "Clean Energy",
+        "related": [
+          "光伏",
+          "风能",
+          "绿氢",
+          "碳中和"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Skymill Weather Sculpture: Where Forecasts Become Poetry in Motion",
+    "keywords": [
+      {
+        "core_keyword": "Clean Energy",
+        "related": [
+          "光伏",
+          "风能",
+          "绿氢",
+          "碳中和"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "China Expands Its Coal Exports and Shrinks Imports Due to Glut",
+    "keywords": [
+      {
+        "core_keyword": "Clean Energy",
+        "related": [
+          "光伏",
+          "风能",
+          "绿氢",
+          "碳中和"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Medical Equipment And Supplies Market Outlook, Trends, Innovations and Growth | Exactitude Consultancy",
+    "keywords": [
+      {
+        "core_keyword": "Aging Population",
+        "related": [
+          "老龄化",
+          "医疗",
+          "护理",
+          "养老金"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Infusion Pump Market is expected to generate a revenue of USD 24.09 Billion by 2031, Globally, at 6% CAGR: Verified Market Research®",
+    "keywords": [
+      {
+        "core_keyword": "Aging Population",
+        "related": [
+          "老龄化",
+          "医疗",
+          "护理",
+          "养老金"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Type 1 diabetes mellitus patients had lower total vitamin K levels and increased sensitivity to direct anticoagulants",
+    "keywords": [
+      {
+        "core_keyword": "Aging Population",
+        "related": [
+          "老龄化",
+          "医疗",
+          "护理",
+          "养老金"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Fears grow EU will cave on tech rules amid Trump pressure",
+    "keywords": [
+      {
+        "core_keyword": "Carbon Border Tax",
+        "related": [
+          "碳税",
+          "排放",
+          "环保",
+          "绿色政策"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "How the end of carbon capture could spark a new industrial revolution",
+    "keywords": [
+      {
+        "core_keyword": "Carbon Border Tax",
+        "related": [
+          "碳税",
+          "排放",
+          "环保",
+          "绿色政策"
+        ]
+      }
+    ],
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "How the end of carbon capture could spark a new industrial revolution",
+    "keywords": [
+      {
+        "core_keyword": "Carbon Border Tax",
+        "related": [
+          "碳税",
+          "排放",
+          "环保",
+          "绿色政策"
+        ]
+      }
+    ],
+    "trend_score": 79
   }
 ]
