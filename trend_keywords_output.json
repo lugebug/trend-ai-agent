@@ -1,7 +1,8 @@
 [
   {
     "date": "2025-06-25",
-    "source_text": "Hyatt Cuts 30% of its U.S. Customer Service Staff",
+    "source_text": "The 3️⃣ standout performers on a night of wonder goals in Group A",
+    "translated_text": "A组的一个夜晚的3️⃣杰出的表演者",
     "keywords": [
       {
         "core_keyword": "Artificial Intelligence",
@@ -13,11 +14,12 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 88
   },
   {
     "date": "2025-06-25",
-    "source_text": "Amazon to invest £40 billion in UK over 3 years: govt",
+    "source_text": "Your CT scan could reveal a hidden heart risk—and AI just learned how to find it",
+    "translated_text": "您的CT扫描可能会揭示隐藏的心脏风险 -  AI刚刚学会了如何找到它",
     "keywords": [
       {
         "core_keyword": "Artificial Intelligence",
@@ -29,11 +31,12 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 88
   },
   {
     "date": "2025-06-25",
-    "source_text": "OpenAI scrubs mention of Jony Ive partnership after judge's ruling over trademark dispute",
+    "source_text": "From AI threats to bad bosses: why emotional intelligence matters",
+    "translated_text": "从AI威胁到坏老板：为什么情绪智力很重要",
     "keywords": [
       {
         "core_keyword": "Artificial Intelligence",
@@ -45,11 +48,12 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 91
   },
   {
     "date": "2025-06-25",
-    "source_text": "Cathie Wood's Ark Invest Cashes Out $109 Million Out Of Circle Internet Stock As Shares Spike, Pivots Into Robinhood And These Chip Stocks",
+    "source_text": "Samsung to expand 1c DRAM production in 2H25 after significant yield improvements",
+    "translated_text": "三星在显着提高后，在2H25扩大1C DRAM的产生",
     "keywords": [
       {
         "core_keyword": "Semiconductor",
@@ -61,11 +65,12 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 94
   },
   {
     "date": "2025-06-25",
-    "source_text": "Huahong zeros in on metrology gear to shore up chip supply chain",
+    "source_text": "Micron (MU) To Report Earnings Tomorrow: Here Is What To Expect",
+    "translated_text": "明天的微米（MU）报告收益：这是期望的",
     "keywords": [
       {
         "core_keyword": "Semiconductor",
@@ -77,11 +82,12 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 94
   },
   {
     "date": "2025-06-25",
-    "source_text": "Toshiba Starts Sample Shipments of Second Product in its Smart Motor Control Driver “SmartMCD™” Series",
+    "source_text": "Kospi Surges to Lead Stock Gains in Asia After Mideast Ceasefire",
+    "translated_text": "中东停火后的Kospi飙升以领先亚洲的股票收益",
     "keywords": [
       {
         "core_keyword": "Semiconductor",
@@ -93,11 +99,46 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 97
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Artificial intelligence: Report sees AI adding $3.4b to NZ economy – if we can address areas we lag",
+    "translated_text": "人工智能：报告看到AI向新西兰经济增添$ 3.4B  - 如果我们可以解决我们滞后的领域",
+    "keywords": [
+      {
+        "core_keyword": "Clean Energy",
+        "related": [
+          "光伏",
+          "风能",
+          "绿氢",
+          "碳中和"
+        ]
+      }
+    ],
+    "trend_score": 97
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Fabheads raises $10 million Series A led by Accel to automate composite fibre manufacturing",
+    "translated_text": "Fabheads筹集了Accel领导的1000万美元A系列A自动化复合纤维制造",
+    "keywords": [
+      {
+        "core_keyword": "Clean Energy",
+        "related": [
+          "光伏",
+          "风能",
+          "绿氢",
+          "碳中和"
+        ]
+      }
+    ],
+    "trend_score": 70
   },
   {
     "date": "2025-06-25",
     "source_text": "State eyeing nuclear plant for upstate; Borrello wants it in Dunkirk",
+    "translated_text": "国家注视核电站上州；Borrello想要在Dunkirk",
     "keywords": [
       {
         "core_keyword": "Clean Energy",
@@ -109,43 +150,12 @@
         ]
       }
     ],
-    "trend_score": 79
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "Skymill Weather Sculpture: Where Forecasts Become Poetry in Motion",
-    "keywords": [
-      {
-        "core_keyword": "Clean Energy",
-        "related": [
-          "光伏",
-          "风能",
-          "绿氢",
-          "碳中和"
-        ]
-      }
-    ],
-    "trend_score": 79
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "China Expands Its Coal Exports and Shrinks Imports Due to Glut",
-    "keywords": [
-      {
-        "core_keyword": "Clean Energy",
-        "related": [
-          "光伏",
-          "风能",
-          "绿氢",
-          "碳中和"
-        ]
-      }
-    ],
-    "trend_score": 79
+    "trend_score": 73
   },
   {
     "date": "2025-06-25",
     "source_text": "Medical Equipment And Supplies Market Outlook, Trends, Innovations and Growth | Exactitude Consultancy",
+    "translated_text": "医疗设备和供应市场前景，趋势，创新和增长|精确咨询",
     "keywords": [
       {
         "core_keyword": "Aging Population",
@@ -157,11 +167,12 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 73
   },
   {
     "date": "2025-06-25",
     "source_text": "Infusion Pump Market is expected to generate a revenue of USD 24.09 Billion by 2031, Globally, at 6% CAGR: Verified Market Research®",
+    "translated_text": "注入泵市场预计将在2031年以6％的复合年增长率到2031年产生240.9亿美元的收入：验证的MarketResearch®®",
     "keywords": [
       {
         "core_keyword": "Aging Population",
@@ -173,11 +184,12 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 73
   },
   {
     "date": "2025-06-25",
     "source_text": "Type 1 diabetes mellitus patients had lower total vitamin K levels and increased sensitivity to direct anticoagulants",
+    "translated_text": "1型糖尿病患者的总维生素K水平较低，对直接抗凝剂的敏感性提高",
     "keywords": [
       {
         "core_keyword": "Aging Population",
@@ -189,11 +201,29 @@
         ]
       }
     ],
-    "trend_score": 79
+    "trend_score": 76
   },
   {
     "date": "2025-06-25",
     "source_text": "Fears grow EU will cave on tech rules amid Trump pressure",
+    "translated_text": "担心在特朗普的压力下，欧盟将在技术规则上陷入困境",
+    "keywords": [
+      {
+        "core_keyword": "Carbon Border Tax",
+        "related": [
+          "碳税",
+          "排放",
+          "环保",
+          "绿色政策"
+        ]
+      }
+    ],
+    "trend_score": 76
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "How the end of carbon capture could spark a new industrial revolution",
+    "translated_text": "碳捕获的终结如何引发一场新的工业革命",
     "keywords": [
       {
         "core_keyword": "Carbon Border Tax",
@@ -210,22 +240,7 @@
   {
     "date": "2025-06-25",
     "source_text": "How the end of carbon capture could spark a new industrial revolution",
-    "keywords": [
-      {
-        "core_keyword": "Carbon Border Tax",
-        "related": [
-          "碳税",
-          "排放",
-          "环保",
-          "绿色政策"
-        ]
-      }
-    ],
-    "trend_score": 79
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "How the end of carbon capture could spark a new industrial revolution",
+    "translated_text": "碳捕获的终结如何引发一场新的工业革命",
     "keywords": [
       {
         "core_keyword": "Carbon Border Tax",
