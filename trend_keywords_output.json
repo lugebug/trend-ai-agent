@@ -1,8 +1,25 @@
 [
   {
     "date": "2025-06-25",
-    "source_text": " Suárez shines, but Palmeiras snatch late draw and go through top",
-    "translated_text": "苏阿雷斯（Suárez",
+    "source_text": "Ad Tech Briefing: Cannes Lions’ biggest ad tech announcements show how TV is now programmatic",
+    "translated_text": "广告技术简报：戛纳狮子的最大广告技术公告显示了电视现在如何编程",
+    "keywords": [
+      {
+        "core_keyword": "Artificial Intelligence",
+        "related": [
+          "AI",
+          "AIGC",
+          "GPT",
+          "自动化"
+        ]
+      }
+    ],
+    "trend_score": 91
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Artificial Intelligence (AI) in Drones Market is Forecasted to Reach US$ 55 Billion in 2032, Says Stratview Research",
+    "translated_text": "Stratview Research说",
     "keywords": [
       {
         "core_keyword": "Artificial Intelligence",
@@ -18,8 +35,8 @@
   },
   {
     "date": "2025-06-25",
-    "source_text": "JPMorgan sees Asian tech stocks gaining another 15-20% this year",
-    "translated_text": "摩根大通（JPMorgan）看到亚洲科技股今年再获得15-20％",
+    "source_text": " Copa Sul-Americana Monday: Estêvão meets Messi, Suárez, love in the air",
+    "translated_text": "COUPA SUL-AMERICANA星期一：Estêvão遇到Messi，Suárez，空中的爱",
     "keywords": [
       {
         "core_keyword": "Artificial Intelligence",
@@ -32,23 +49,6 @@
       }
     ],
     "trend_score": 97
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "Thank you, Fifa! Pact returns, Botafogo v Palmeiras, magical night",
-    "translated_text": "谢谢你，国际足联！协定返回，botafogo v palmeiras，神奇的夜晚",
-    "keywords": [
-      {
-        "core_keyword": "Artificial Intelligence",
-        "related": [
-          "AI",
-          "AIGC",
-          "GPT",
-          "自动化"
-        ]
-      }
-    ],
-    "trend_score": 70
   },
   {
     "date": "2025-06-25",
@@ -82,7 +82,7 @@
         ]
       }
     ],
-    "trend_score": 73
+    "trend_score": 76
   },
   {
     "date": "2025-06-25",
@@ -99,7 +99,24 @@
         ]
       }
     ],
-    "trend_score": 73
+    "trend_score": 79
+  },
+  {
+    "date": "2025-06-25",
+    "source_text": "Open Letter: E-SAF Tender Funded By National Governments To Unlock The First Projects In Europe",
+    "translated_text": "公开信：由国家政府资助的E-SAF招标旨在解锁欧洲的第一个项目",
+    "keywords": [
+      {
+        "core_keyword": "Clean Energy",
+        "related": [
+          "光伏",
+          "风能",
+          "绿氢",
+          "碳中和"
+        ]
+      }
+    ],
+    "trend_score": 82
   },
   {
     "date": "2025-06-25",
@@ -116,7 +133,7 @@
         ]
       }
     ],
-    "trend_score": 76
+    "trend_score": 82
   },
   {
     "date": "2025-06-25",
@@ -133,24 +150,7 @@
         ]
       }
     ],
-    "trend_score": 79
-  },
-  {
-    "date": "2025-06-25",
-    "source_text": "State eyeing nuclear plant for upstate; Borrello wants it in Dunkirk",
-    "translated_text": "国家注视核电站上州；Borrello想要在Dunkirk",
-    "keywords": [
-      {
-        "core_keyword": "Clean Energy",
-        "related": [
-          "光伏",
-          "风能",
-          "绿氢",
-          "碳中和"
-        ]
-      }
-    ],
-    "trend_score": 82
+    "trend_score": 85
   },
   {
     "date": "2025-06-25",
@@ -218,7 +218,7 @@
         ]
       }
     ],
-    "trend_score": 94
+    "trend_score": 97
   },
   {
     "date": "2025-06-25",
@@ -235,7 +235,7 @@
         ]
       }
     ],
-    "trend_score": 97
+    "trend_score": 70
   },
   {
     "date": "2025-06-25",
