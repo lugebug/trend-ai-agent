@@ -1,7 +1,7 @@
 import os
 import json
 from datetime import datetime, timedelta
-from newsapi.newsapi_client import NewsApiClient
+from newsapi import NewsApiClient  # ✅ 正确导入路径
 from googletrans import Translator
 
 # 设置 API 密钥和翻译器
