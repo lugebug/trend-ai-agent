@@ -1,43 +1,19 @@
-name: Daily Trend AI Update
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # 每天 00:00 UTC 自动运行
-  workflow_dispatch:     # 允许手动触发
-
-jobs:
-  update-trends:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-
-      - name: Step 1 - Fetch news
-        run: python trend_fetch_newsapi.py
-
-      - name: Step 2 - Analyze trends
-        run: python trend_analyzer.py
-
-      - name: Step 3 - Detect breakpoints
-        run: python trend_breakpoint_detector.py
-
-      - name: Step 4 - Recommend investments
-        run: python trend_investment_recommender.py
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add .
-          git commit -m '📰 Daily trend data updated'
-          git push
+3  on:
+4    schedule:
+5      - cron: '0 0 * * *'  # 每天 00:00 UTC 自动运行
+...
+25        - name: Step 1 - Fetch news
+26          run: python trend_fetch_newsapi.py
+28        - name: Step 2 - Analyze trends
+29          run: python trend_analyzer.py
+31        - name: Step 3 - Detect breakpoints
+32          run: python trend_breakpoint_detector.py
+34        - name: Step 4 - Recommend investments
+35          run: python trend_investment_recommender.py
+37        - name: Commit and push changes
+38          run: |
+39            git config --global user.name 'github-actions'
+40            git config --global user.email 'github-actions@github.com'
+41            git add .
+42            git commit -m '📰 Daily trend data updated'
+43            git push
