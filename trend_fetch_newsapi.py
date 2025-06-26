@@ -5,7 +5,7 @@ from newsapi.newsapi_client import NewsApiClient
 from googletrans import Translator
 
 # 设置 API 密钥和翻译器
-newsapi = NewsApiClient(api_key=os.getenv("NEWS_API_KEY", "62fe55a584804d249a1f6af499f71750"))
+newsapi = NewsApiClient(api_key=os.getenv("NEWS_API_KEY", "YOUR_NEWSAPI_KEY"))
 translator = Translator()
 
 # 设置关键词列表（可根据趋势扩展）
@@ -34,7 +34,7 @@ for kw in keywords:
         for article in articles['articles']:
             title = article['title']
             try:
-                translated = translator.translate(title, src='en', dest='zh-cn').text
+                translated = translator.translate(title, src="en", dest="zh-cn").text
             except Exception:
                 translated = "[翻译失败] " + title
             trend_data.append({
