@@ -1,0 +1,20 @@
+[
+  {
+    "cluster": 1,
+    "keywords": ["AI", "OpenAI", "NVIDIA"],
+    "trend_score": 47,
+    "start_date": "2025-05-25",
+    "end_date": "2025-06-22",
+    "samples": [
+      {
+        "date": "2025-06-20",
+        "source_text": "NVIDIA announces new AI chip",
+        "translated_text": "英伟达发布新AI芯片",
+        "source": "TechCrunch",
+        "topic": "NVIDIA"
+      }
+    ],
+    "breakpoint_detected": true,
+    "recommendation": ["NVIDIA", "QQQ"]
+  }
+]
