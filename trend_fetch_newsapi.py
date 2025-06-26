@@ -34,7 +34,7 @@ for kw in keywords:
         for article in articles['articles']:
             title = article['title']
             try:
-                translated = translator.translate(title, src='en', dest='zh-cn').text
+                translated = translator.translate(title, src="en", dest="zh-cn").text
             except Exception:
                 translated = "[翻译失败] " + title
             trend_data.append({
